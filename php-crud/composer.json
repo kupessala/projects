@@ -1,0 +1,12 @@
+{
+    "name": "rodrino/php-crud",
+    "description": "CRUD PHP E PDO",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kupessala",
+            "email": "rkupessala@gmail.com"
+        }
+    ],
+    "require": {}
+}
